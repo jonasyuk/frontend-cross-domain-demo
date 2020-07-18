@@ -1,0 +1,25 @@
+{
+  "name": "frontend-cross-domain-demo",
+  "version": "1.0.0",
+  "description": "前端跨域方案代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api-server": "node ./api-server.js",
+    "static-server": "node ./static-server.js",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasyuk/frontend-cross-domain-demo.git"
+  },
+  "author": "jonasyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonasyuk/frontend-cross-domain-demo/issues"
+  },
+  "homepage": "https://github.com/jonasyuk/frontend-cross-domain-demo#readme",
+  "dependencies": {
+    "koa": "^2.12.0"
+  }
+}
