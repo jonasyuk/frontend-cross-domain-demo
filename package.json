@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/jonasyuk/frontend-cross-domain-demo#readme",
   "dependencies": {
-    "koa": "^2.12.0"
+    "koa": "^3.0.1"
   }
 }
